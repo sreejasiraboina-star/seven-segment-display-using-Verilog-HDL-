@@ -1,3 +1,11 @@
+
+INTERN ID:CITS1106
+NAME:SIRABOINA SREEJA
+COURSE:VLSI
+COURSE DURATION:6 WEEKS
+
+
+
 # Seven-Segment Display Driver using Verilog HDL
 
 ## Aim  
